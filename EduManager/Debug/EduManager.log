@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  AboutBox.cpp
+  AddModule.cpp
+  AddStudent.cpp
+  AdminForm.cpp
+  Comment.cpp
+  EditModule.cpp
+  EditUser.cpp
+  EduManager.cpp
+  Login.cpp
+  Module.cpp
+  StudentForm.cpp
+  TeacherForm.cpp
+  User.cpp
+  ViewComment.cpp
+  Generating Code...
+  EduManager.vcxproj -> C:\Users\wuhaonan\source\repos\EduManager\Debug\EduManager.exe

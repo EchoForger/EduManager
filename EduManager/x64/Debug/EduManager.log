@@ -1,0 +1,93 @@
+﻿  pch.cpp
+  AddModule.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddModule.cpp(65,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddModule.cpp(67,23): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddModule.cpp(68,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddModule.cpp(119,38): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddModule.cpp(240,26): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  AddStudent.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddStudent.cpp(60,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddStudent.cpp(62,23): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddStudent.cpp(63,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddStudent.cpp(106,38): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\AddStudent.cpp(214,24): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  EduManager.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\EduManager.cpp(285,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\EduManager.cpp(290,8): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\EduManager.cpp(456,57): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  Login.cpp
+  Module.cpp
+  NewModule.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\NewModule.cpp(74,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\NewModule.cpp(76,23): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\NewModule.cpp(77,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\NewModule.cpp(213,24): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  StudentForm.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\StudentForm.cpp(80,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\StudentForm.cpp(82,23): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\StudentForm.cpp(127,38): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\StudentForm.cpp(354,26): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  TeacherForm.cpp
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\TeacherForm.cpp(80,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\TeacherForm.cpp(82,23): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\TeacherForm.cpp(125,38): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\wuhaonan\source\repos\EduManager\EduManager\TeacherForm.cpp(309,25): warning C4267: “参数”: 从“size_t”转换到“const _Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  User.cpp
+  正在生成代码...
+  EduManager.vcxproj -> C:\Users\wuhaonan\source\repos\EduManager\x64\Debug\EduManager.exe
